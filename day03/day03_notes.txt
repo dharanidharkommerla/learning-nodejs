@@ -1,0 +1,11 @@
+Download and Install vscode
+---------------------------
+1. https://code.visualstudio.com/
+
+2. create a javascript file and write your code in the js file.
+
+
+
+var
+let 
+const
