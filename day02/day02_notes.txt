@@ -17,12 +17,6 @@ Browser
 
 
 
-
-
-
-
-
-
 NodeJS
 =======
 1. the javascript file that runs on the node has No window object available
