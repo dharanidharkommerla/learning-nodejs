@@ -1,0 +1,51 @@
+Browser
+========
+1. the javascript that runs on the Browser has the window object.
+    from window object we can access methods like alert() ,..
+
+2. document object is also available 
+
+3. storages --> local storage, session storage --> offline storage 
+
+4. browser has cookie
+
+5. browser javascript doesn't support file system. to read, write, delete, rename, move, copy,..
+
+6. No Database Interaction available
+
+7. this javascript is used for the developing client applications / ui
+
+
+
+
+
+
+
+
+
+NodeJS
+=======
+1. the javascript file that runs on the node has No window object available
+
+2. No document object available
+
+3. it doesn't support offline storage
+
+4. nodejs don't have the cookie
+
+5. nodejs has the file system
+
+6. Database Interaction available
+
+7. this nodejs is used for developing server app / backend
+
+NodeJS
+------
+but frontend developers and backend developers both uses nodejs,
+
+Frontend Development(applications developed using angular, react,...) 
+--> NodeJS acts like Runtime Enviroment/server for the frontend application
+
+Backend Development 
+--> NodeJS acts like a programming language, 
+--> it has a lot of modules(os,fs,http,url,crypto,...)
