@@ -6,9 +6,7 @@
 
 ---
 
-Thanks for sharing the screenshot. You're analyzing how JavaScript **hoisting** and **scoping** work, especially when the same variable name (`a`) is declared both outside and inside a function using `var`.
-
-Let’s clarify both examples shown in the screenshots step by step:
+analyzing how JavaScript **hoisting** and **scoping** work, especially when the same variable name (`a`) is declared both outside and inside a function using `var`.
 
 ---
 
