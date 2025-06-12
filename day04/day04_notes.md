@@ -95,5 +95,3 @@ f1();
 | Second `console.log` in `f1()` | `15`                                | `15`                       |
 
 ---
-
-Let me know if you'd like a diagram or animation to visualize this!
